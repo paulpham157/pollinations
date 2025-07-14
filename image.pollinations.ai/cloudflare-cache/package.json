@@ -21,7 +21,7 @@
   "author": "Pollinations",
   "license": "MIT",
   "devDependencies": {
-    "wrangler": "^4.0.0"
+    "wrangler": "^4.24.3"
   },
   "dependencies": {
     "dotenv": "^17.0.1"
